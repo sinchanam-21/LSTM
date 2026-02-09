@@ -1,0 +1,14 @@
+.git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+.ipynb_checkpoints/
+Resume.csv
+X.npy
+y.npy
+confusion_matrix.png
+.streamlit/
+venv/
+env/
